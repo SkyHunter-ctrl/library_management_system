@@ -1,5 +1,5 @@
-from models.book import Book
-from models.users import Librarian, Member, User
+from book import Book
+from users import Librarian, Member, User
 
 
 class Library:

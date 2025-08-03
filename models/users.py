@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-from models.book import Book
+from book import Book
 
 
 class User(ABC):
